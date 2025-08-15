@@ -1,1 +1,1 @@
-# GenBlogTGgpt
+# GenPostTGgpt
