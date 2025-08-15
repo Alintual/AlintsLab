@@ -1,1 +1,1 @@
-# AlintsLab
+# GenBlogTGgpt
